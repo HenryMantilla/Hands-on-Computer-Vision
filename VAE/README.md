@@ -1,0 +1,1 @@
+Variational Autoencoder Code taken from https://github.com/williamFalcon/pytorch-lightning-vae/blob/main/vae.py
